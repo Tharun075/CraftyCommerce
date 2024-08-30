@@ -9,4 +9,5 @@ The  feature branches:
 1. feature-product-listing
 2. feature-shopping-cart
 3. feature-customer-reviews
+   
 have been seperately created, completed and merged with the master branch successfully. They hosted specific development cycles for each feature of the application. 
